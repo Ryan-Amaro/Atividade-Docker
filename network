@@ -1,0 +1,4 @@
+# Created by anaconda
+NETWORKING=yes
+HOSTNAME=atividade-docker
+GATEWAY=10.0.2.2
