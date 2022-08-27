@@ -65,11 +65,11 @@ Obter imagem ***Oracle Linux*** em: [https://yum.oracle.com/oracle-linux-isos.ht
 
 **Seleção de software:**
 
-![Captura_de_tela_2022-07-05_132402](https://user-images.githubusercontent.com/108694840/185005039-657b3911-52b1-4ade-ba65-9b76dde93e60.png)
+![Captura de tela 2022-08-26 213336](https://user-images.githubusercontent.com/108694840/187008945-563b3866-d162-477d-9277-d0f60477794a.png)
 
 **Particionamento dos diretórios:**
 
-![Particionamento](https://user-images.githubusercontent.com/108694840/185005170-e4549219-43d0-4124-9cf6-e2ecd9824215.png)
+![Captura de tela 2022-08-26 215450](https://user-images.githubusercontent.com/108694840/187008884-23bec01d-af38-4516-b86e-6d12f4c4081d.png)
 
 ### Instalação e configuração do GitHub:
 
